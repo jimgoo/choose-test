@@ -1,0 +1,6 @@
+Candybar, 500
+Book, 700
+Detergent, 1000
+Headphones, 1400
+Earmuffs, 2000
+Speaker, 6000
